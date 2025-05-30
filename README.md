@@ -71,5 +71,21 @@ npm start
 In /backend/.env:
 PORT=5000
 DATABASE_URL=postgresql://postgres:postgres@localhost:5432/StoreRating
-JWT_SECRET=your_secret_key
+JWT_SECRET=fbeb4acf97a1b90ad53676dd09b2d42e83e918f70721f047a13778985f43f54e
 
+
+## 📸 Screenshots
+ ### 🔐 Registration Page
+![Registration Page](./screenshots/Register.png)
+
+### 🔐 Login Page
+![Login Page](./screenshots/Login.png)
+
+### 👤 User Dashboard
+![User Dashboard](./screenshots/user_dashboard.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](./screenshots/admin-_ashboard.png)
+
+### 🏪 Store Owner Dashboard
+![Owner Dashboard](./screenshots/owner_dashboard.png)
