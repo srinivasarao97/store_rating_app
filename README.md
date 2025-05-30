@@ -55,7 +55,7 @@ npm install
 
 Create .env file:
 PORT=5000
-DATABASE_URL=postgresql://<user>:<password>@localhost:5432/StoreRating
+DATABASE_URL=postgresql://postgres:postgres@localhost:5432/StoreRating
 JWT_SECRET=your_secret_key
 Run backend server:
 npm run dev
